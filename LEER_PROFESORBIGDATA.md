@@ -1,4 +1,4 @@
-# Consultas SQL Server y Archivo Power BI
+#Consultas SQL Server y Archivo Power BI
 
 Estimado Profesor,
 
